@@ -4,9 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekjeawon88)](https://github.com/rekjeawon88/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=lightblue)
+
+![C++](https://img.shields.io/badge/-C++-123456?style=flat-square&logo=C&logoColor=skyblue)
+
 ![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 
 # heading1
 ## heading2
