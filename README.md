@@ -8,4 +8,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekjeawon88&theme=buefy&show_icons=true)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rekjeawon88)(https://solved.ac/rekjeawon88)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rekjeawon88)](https://solved.ac/rekjeawon88)
